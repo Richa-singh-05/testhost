@@ -5,7 +5,7 @@ const ProcessFlow = () => {
   return (
 <section className="w-full bg-[#ffffff] py-10 sm:py-14 lg:py-16">
   <div className="max-w-9xl mx-auto px-4 sm:px-4 lg:px-4">
-    <img src={process} alt="process image" className="w-full h-auto object-contain mb-6"/>
+    <img src={process}  className="w-full h-auto object-contain mb-6"/>
     <div className="flex flex-col sm:flex-row sm:flex-wrap lg:flex-nowrap gap-6 sm:gap-8 lg:gap-0 lg:justify-between">
       <div className="flex items-start gap-2 w-full sm:w-1/2 lg:w-auto">
         <span className="text-xl sm:text-2xl lg:text-3xl font-bold text-[#632fcc]">
